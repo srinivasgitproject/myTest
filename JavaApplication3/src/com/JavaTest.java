@@ -17,6 +17,7 @@ public class JavaTest {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello...........$$$$$$$$$$$@@@@@@@@@@#####----Application started");
+        System.out.println("name : "+System.getProperty("db.user" ));
     }
     
 }
