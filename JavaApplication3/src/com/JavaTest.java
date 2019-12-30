@@ -9,6 +9,8 @@ package com;
  *
  * @author srinivas.l
  */
+import java.lang.*; 
+import java.util.Properties; 
 public class JavaTest {
 
     /**
