@@ -22,7 +22,7 @@ public class JavaTest {
         // TODO code application logic here
         System.out.println("Hello...........$$$$$$$$$$$@@@@@@@@@@#####----Application started");
         System.out.println(" JAVA :: "+System.getProperty("java.home"));
-        FileReader reader=new FileReader("https://github.com/srinivasgitproject/myTest/tree/master/JavaApplication3/nbproject/app.properties");  
+        FileReader reader=new FileReader("JavaApplication3/nbproject/app.properties");  
       
         Properties p=new Properties();  
         p.load(reader);  
