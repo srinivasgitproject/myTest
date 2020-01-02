@@ -20,7 +20,7 @@ public class JavaTest {
      */
     public static void main(String[] args)throws Exception {
         // TODO code application logic here
-        System.out.println("Hello...........$$$$$$$$$$$@@@@@@@@@@#####----Application started...............IMIMobile");
+        System.out.println("Hello...........$$$$$$$$$$$@@@@@@@@@@#####----Application started..........@@@@.....IMIMobile");
         System.out.println(" JAVA :: "+System.getProperty("java.home"));
         System.out.println(" JAVA :: "+System.getProperty("db.user"));
         FileReader reader=new FileReader("JavaApplication3/nbproject/app.properties");  
